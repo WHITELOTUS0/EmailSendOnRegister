@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/WHITELOTUS0/EmailSendOnRegister/issues"
   },
-  "homepage": "https://github.com/WHITELOTUS0/EmailSendOnRegister#readme"
+  "homepage": "https://github.com/WHITELOTUS0/EmailSendOnRegister#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mysql2": "^3.4.5",
+    "nodemailer": "^6.9.3"
+  }
 }

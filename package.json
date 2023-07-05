@@ -1,0 +1,19 @@
+{
+  "name": "emailsendonregister",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WHITELOTUS0/EmailSendOnRegister.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WHITELOTUS0/EmailSendOnRegister/issues"
+  },
+  "homepage": "https://github.com/WHITELOTUS0/EmailSendOnRegister#readme"
+}
